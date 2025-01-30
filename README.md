@@ -24,7 +24,7 @@ You can supply configuration with the optional `opts` field, as in
 
 ```lua
 {
-    "ethanuppal/spade.nvim",
+    "ethanuppal/bril.nvim",
     opts = {
         lsp_command = "custom/path/to/bril/langauge/server",
     }
