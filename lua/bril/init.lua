@@ -20,7 +20,6 @@ function M.setup(opts)
 					root_dir = vim.fn.getcwd(),
 				})
 			end,
-			once = true,
 		})
 	end
 end

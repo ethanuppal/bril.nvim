@@ -14,7 +14,9 @@ First, install the Bril LSP:
 cargo install --locked --git https://gitlab.com/ethanuppal/cs6120 bril-lsp
 ```
 
-Then, install the plugin [lazy.nvim](https://github.com/folke/lazy.nvim):
+Be sure to update the LSP regularly as I make changes.
+
+Then, install the plugin with [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 { "ethanuppal/bril.nvim" }
